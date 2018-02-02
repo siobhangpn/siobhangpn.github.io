@@ -1,0 +1,21 @@
+.bar {
+    fill: green;
+}
+
+.bar:hover {
+    fill: black;
+    opacity: 0.5;
+}
+
+.axis--x path {
+    display: none;
+}
+
+html {
+    background-color: white;
+}
+
+svg {
+    min-width: 80%;
+    height: 80%;
+}
